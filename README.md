@@ -24,7 +24,7 @@ pip install -r requirement.txt
 - [ ] [Matt Harrison - Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A&pp=ygUTcGFuZGFzIHB5ZGF0YSB0YWxrcw%3D%3D)
 
 
-## Liinear Algebra
+## Linear Algebra
 - [ ] PCA
 - [ ] SVD
 - [ ] Fourier Series
@@ -42,3 +42,7 @@ pip install -r requirement.txt
 
 #### Telangana
 - [ ] [Telangana Dataset](data.telangana.gov.in)
+
+
+## XGBoost
+- [ ] Effective XGBoost by Matt Harrison
