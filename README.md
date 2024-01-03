@@ -18,9 +18,7 @@ pip install -r requirement.txt
 ## NUMPY
 - [X] [Numpy Fundamentals](https://numpy.org/doc/stable/user/absolute_beginners.html)
 - [X] [Enthought Numpy Tutorial](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
-<p align="center">
-  <img src="./Learn%20Numpy/assets/numpy%20applications.png" alt="Numpy Application" width="350" title="hover text">
-</p>
+<img src="./Learn%20Numpy/assets/numpy%20applications.png" alt="" width="350" title="Numpy Application">
 
 
 ## PANDAS
