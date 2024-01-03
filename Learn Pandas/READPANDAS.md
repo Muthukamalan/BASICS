@@ -2,25 +2,22 @@
 ## Pattern for Data Manipulation
 
 ### Intro
-- [ ] Data 
+- [X] Data 
 
 ### Data Structure
-- [ ] Summary
-- [ ] Exercise
+- [X] Summary
 
 ### Series
-- [ ] Index abstraction
-- [ ] pandas Series
-- [ ] NaN value
-- [ ] Optional Integer Support for NaN
-- [ ] Similar to Numpy
-- [ ] Categorical Data
-- [ ] Summary
-- [ ] Exercise
+- [X] Index abstraction
+- [X] pandas Series
+- [X] NaN value
+- [X] Optional Integer Support for NaN
+- [X] Similar to Numpy
+- [X] Categorical Data
 
 ### Series Deep Dive
-- [ ] Loading the Data
-- [ ] Series Attributes
+- [X] Loading the Data
+- [X] Series Attributes
 
 ### Operators(& Dunder Methods)
 - [ ] Intro
