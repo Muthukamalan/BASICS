@@ -35,6 +35,7 @@ pip install -r requirement.txt
 
 ## Visualize
 - [ ] EDA (Python-Gallery)[https://python-graph-gallery.com/]
+- [ ] EDA I (matplotlib)[https://matplotlib.org/stable/tutorials/index.html]
 
 ### Kaggler
 #### Olist
@@ -46,3 +47,9 @@ pip install -r requirement.txt
 
 ## XGBoost
 - [ ] Effective XGBoost by Matt Harrison
+
+
+
+## SciPy
+
+SciPy is another open-source library from Python's scientific computing stack. SciPy includes submodules for integration, optimization, and many other kinds of computations that are out of the scope of NumPy itself. We will not cover SciPy as a library here, since it can be more considered as an "add-on" library on top of NumPy.
