@@ -24,7 +24,13 @@ pip install -r requirement.txt
 ## PANDAS
 - [ ] [PyData Pandas Tutorial](https://www.youtube.com/watch?v=iYie42M1ZyU&pp=ygUTcGFuZGFzIHB5ZGF0YSB0YWxrcw%3D%3D)
 - [ ] [Matt Harrison - Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A&pp=ygUTcGFuZGFzIHB5ZGF0YSB0YWxrcw%3D%3D)
-
+- [ ] Beyond PANDAS
+    - [ ] Duck DB 
+    - [ ] Pyarrrow Integration
+    - [ ] CuDF scales out to GPUs
+    - [ ] Copy-on-write (COW)
+    - [ ] Polars
+    - [ ] Chroma vector DB
 
 ## Linear Algebra
 - [ ] PCA
