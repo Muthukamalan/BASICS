@@ -46,62 +46,62 @@
 - [X] Missing Data
 - [X] Filling in Missing Data
 - [X] Interpolating Data
-- [ ] Clipping 
-- [ ] Sorting Value
-- [ ] Sorting the Index
-- [ ] Dropping Duplicates
-- [ ] Ranking Data
-- [ ] Replacing Data
-- [ ] Binning
+- [X] Clipping 
+- [X] Sorting Value
+- [X] Sorting the Index
+- [X] Dropping Duplicates
+- [X] Ranking Data
+- [X] Replacing Data
+- [X] Binning
 
 ### Indexing Operations
-- [ ] Prepping the Data and Renaming the index
-- [ ] Resetting the index
-- [ ] .loc Attributes
-- [ ] .iloc
-- [ ] heads and tails
-- [ ] Filtering Index Values
-- [ ] Reindexing
+- [X] Prepping the Data and Renaming the index
+- [X] Resetting the index
+- [X] .loc Attributes
+- [X] .iloc
+- [X] heads and tails
+- [X] Filtering Index Values
+- [X] Reindexing
 
 ### String Manipulation
-- [ ] String and Objects
-- [ ] Categorical Strings
-- [ ] The .str Accessor
-- [ ] Searching
-- [ ] Splitting
+- [X] String and Objects
+- [X] Categorical Strings
+- [X] The .str Accessor
+- [X] Searching
+- [X] Splitting
 - [ ] Optimizing .apply with Cython
-- [ ] Replacing Text
+- [X] Replacing Text
 
 ### Date and Time Manipulation
-- [ ] Date Theory
-- [ ] Loading UTC Time Data
-- [ ] Loading Local Time Data
-- [ ] Local Time to UTC
+- [X] Date Theory
+- [X] Loading UTC Time Data
+- [X] Loading Local Time Data
+- [X] Local Time to UTC
 - [ ] Converting to Epochs
-- [ ] Manipulating Dates
+- [X] Manipulating Dates
 
 ### Dates in the Index
-- [ ] Finding the missing data
-- [ ] filling in missing data
-- [ ] intepolation
-- [ ] dropping missing values
-- [ ] shifting data
-- [ ] rolling average
-- [ ] resampling
-- [ ] gathering aggregate values(but keeping index)
+- [X] Finding the missing data
+- [X] filling in missing data
+- [X] intepolation
+- [X] dropping missing values
+- [X] shifting data
+- [X] rolling average
+- [X] resampling
+- [X] gathering aggregate values(but keeping index)
 - [ ] groupby operation
-- [ ] cumulative operations
+- [X] cumulative operations
 
 ### Plotting with a Series
-- [ ] Plotting in jupyter
-- [ ] .plot 
-- [ ] histogram
-- [ ] box
-- [ ] kde
-- [ ] line
-- [ ] line plot with multiple aggregations
-- [ ] bar
-- [ ] pie
+- [X] Plotting in jupyter
+- [X] .plot 
+- [X] histogram
+- [X] box
+- [X] kde
+- [X] line
+- [X] line plot with multiple aggregations
+- [X] bar
+- [X] pie
 - [ ] styling
 
 ### Categorical Manipulation
