@@ -20,32 +20,32 @@
 - [X] Series Attributes
 
 ### Operators(& Dunder Methods)
-- [ ] Intro
-- [ ] Dunder Methods
-- [ ] Index Alignment
-- [ ] Broadcasting
-- [ ] Iteration
-- [ ] Operator Methods
-- [ ] Chaining
+- [X] Intro
+- [X] Dunder Methods
+- [X] Index Alignment
+- [X] Broadcasting
+- [X] Iteration
+- [X] Operator Methods
+- [X] Chaining
 
 ### Aggregate Methods
-- [ ] Aggregation
-- [ ] Count and Mean of an Attribute
-- [ ] .agg and Aggregation Strings
+- [X] Aggregation
+- [X] Count and Mean of an Attribute
+- [X] .agg and Aggregation Strings
 
 ### Conversion Methods
-- [ ] Automatic Conversion
-- [ ] Memory Usage
-- [ ] String and Category Types
-- [ ] Ordered Categories
-- [ ] Converting to Other Types
+- [X] Automatic Conversion
+- [X] Memory Usage
+- [X] String and Category Types
+- [X] Ordered Categories
+- [X] Converting to Other Types
 
 ### Manipulation Methods
-- [ ] .apply and .where
-- [ ] If Else
-- [ ] Missing Data
-- [ ] Filling in Missing Data
-- [ ] Interpolating Data
+- [X] .apply and .where
+- [X] If Else
+- [X] Missing Data
+- [X] Filling in Missing Data
+- [X] Interpolating Data
 - [ ] Clipping 
 - [ ] Sorting Value
 - [ ] Sorting the Index
