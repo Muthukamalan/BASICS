@@ -105,28 +105,28 @@
 - [ ] styling
 
 ### Categorical Manipulation
-- [ ] Categorical data
-- [ ] Frequency Counts
-- [ ] benefits of categories
-- [ ] conversion to Ordinal categories
-- [ ] .cat accessor
-- [ ] category gotchas
+- [X] Categorical data
+- [X] Frequency Counts
+- [X] benefits of categories
+- [X] conversion to Ordinal categories
+- [X] .cat accessor
+- [X] category gotchas
 - [ ] generalization
 
 ### Dataframes
 - [ ] database and spreedsheet analogues
 - [ ] simple python version
-- [ ] Dataframes
-- [ ] Construction
-- [ ] Dataframe Axis
+- [x] Dataframes
+- [x] Construction
+- [x] Dataframe Axis
 
 
 ### Similarities with Series and DataFrame
-- [ ] getting the data
-- [ ] view data
+- [X] getting the data
+- [X] view data
 
 ### Math Methods in DataFrames
-- [ ] Index alignment
+- [X] Index alignment
 - [ ] duplicate index
 
 ### Looping and Aggregation
