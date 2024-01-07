@@ -127,60 +127,60 @@
 
 ### Math Methods in DataFrames
 - [X] Index alignment
-- [ ] duplicate index
+- [X] duplicate index
 
 ### Looping and Aggregation
-- [ ] for loops
-- [ ] aggregaions
+- [X] for loops
+- [X] aggregaions
 - [ ] .apply method
 
 ### Columns Types, .assign an Memory Usage
-- [ ] Conversion methods
-- [ ] memory usage
+- [X] Conversion methods
+- [X] memory usage
 
 ### Creating and Updating Columns
-- [ ] Loading the Data
-- [ ] more column cleanup
+- [X] Loading the Data
+- [x] more column cleanup
 
 ### Dealing with Missing and Duplicated Data
-- [ ] Missing data
-- [ ] duplicates
+- [X] Missing data
+- [X] duplicates
 
 ### Sorting Columns and Indexes
-- [ ] Soring columns
+- [X] Soring columns
 - [ ] Sorting columns Order
-- [ ] Setting and Sorting the index
+- [X] Setting and Sorting the index
 
 ### Filtering and Indexing Operations
-- [ ] Renaming an Index
-- [ ] Resetting the Index
-- [ ] Dataframe Indexing, Filtering & Querying
-- [ ] Indexing by Position
+- [X] Renaming an Index
+- [X] Resetting the Index
+- [X] Dataframe Indexing, Filtering & Querying
+- [X] Indexing by Position
 - [ ] Indexing 
 
 ### Plotting with DataFrames
-- [ ] line plots
-- [ ] bar
-- [ ] scatter
-- [ ] area and stacked bar
-- [ ] column distributions with KDEs,Histograms and Boxplots
+- [X] line plots
+- [X] bar
+- [X] scatter
+- [X] area and stacked bar
+- [X] column distributions with KDEs,Histograms and Boxplots
 
 
 ### Reshaping Dataframes with Dummies
-- [ ] dummy columns
-- [ ] undoing dummy columns
+- [X] dummy columns
+- [X] undoing dummy columns
 
 ### Reshaping By Pivoting and Grouping
-- [ ] Using a custom Aggregation function
-- [ ] multiple aggregation
-- [ ] per column aggregations
-- [ ] grouping by hierarchy
-- [ ] grouping with functions
+- [X] Using a custom Aggregation function
+- [X] multiple aggregation
+- [X] per column aggregations
+- [X] grouping by hierarchy
+- [X] grouping with functions
 
 
 ### More Aggregations
-- [ ] Aggregation while keeping rows
-- [ ] Filtering parts of groups
+- [X] Aggregation while keeping rows
+- [X] Filtering parts of groups
 
 
 ### Cross-tabulation Deep Dive
@@ -188,23 +188,23 @@
 - [ ] adding margins
 - [ ] normalizing results
 - [ ] hierarchical columns with cross tabulations
-- [ ] heatmaps
+- [X] heatmaps
 
 ### Melting, Transpose and Stacking Data
-- [ ] melting data
-- [ ] Un-melting data
-- [ ] Transposing data
-- [ ] stacking and Unstacking
-- [ ] Flattening hierarchical index and columns
+- [X] melting data
+- [X] Un-melting data
+- [X] Transposing data
+- [X] stacking and Unstacking
+- [X] Flattening hierarchical index and columns
 
 
 ### Working with TimeSeries
-- [ ] loading the data
-- [ ] adding timezone info
-- [ ] exploring the data
-- [ ] slicing ts
-- [ ] missing ts data
-- [ ] exploring seasonality
+- [X] loading the data
+- [X] adding timezone info
+- [X] exploring the data
+- [X] slicing ts
+- [X] missing ts data
+- [X] exploring seasonality
 - [ ] resampling data
 - [ ] rules with offset aliases
 - [ ] combining offset aliases
@@ -215,25 +215,21 @@
 
 
 ### Joining Dataframes
-- [ ] Adding rows to Dataframes
-- [ ] Adding cols to Dataframes
-- [ ] Joins
-- [ ] joins indicators
-- [ ] merge validations
-- [ ] joining data example
-- [ ] dirty devil flow and weather data
+- [X] Adding rows to Dataframes
+- [X] Adding cols to Dataframes
+- [X] Joins
+- [X] joins indicators
+- [X] merge validations
 - [ ] joining data
 - [ ] validating joined data
 - [ ] visualization of merged data
 
 ### Exporting data
-- [ ] Dirty devil data
-- [ ] read and write
-- [ ] create csv
-- [ ] export to ecel
+- [X] create csv
+- [ ] export to excel
 - [ ] feather
-- [ ] sql
-- [ ] json
+- [x] sql
+- [x] json
 
 ### Styling Dataframes
 - [ ] Loading the Data
@@ -250,8 +246,8 @@
 
 
 ### Debugging pandas
-- [ ]  Checking if Dataframe are Equal
-- [ ] Debugging Chains
+- [X] Checking if Dataframe are Equal
+- [X] Debugging Chains
 - [ ] Debugging Apply
 - [ ] Memory Usage
-- [ ] Timing Info
+- [X] Timing Info
