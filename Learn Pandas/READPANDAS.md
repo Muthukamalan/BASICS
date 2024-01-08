@@ -55,7 +55,7 @@
 - [X] Binning
 
 ### Indexing Operations
-- [X] Prepping the Data and Renaming the index
+- [X] Naming the index
 - [X] Resetting the index
 - [X] .loc Attributes
 - [X] .iloc
@@ -110,8 +110,7 @@
 - [X] benefits of categories
 - [X] conversion to Ordinal categories
 - [X] .cat accessor
-- [X] category gotchas
-- [ ] generalization
+- [X] category gotchas (cons)
 
 ### Dataframes
 - [ ] database and spreedsheet analogues
@@ -156,7 +155,6 @@
 - [X] Resetting the Index
 - [X] Dataframe Indexing, Filtering & Querying
 - [X] Indexing by Position
-- [ ] Indexing 
 
 ### Plotting with DataFrames
 - [X] line plots
