@@ -42,8 +42,8 @@ pip install -r requirement.txt
 
 
 ## Visualize
-- [ ] EDA (Python-Gallery)[https://python-graph-gallery.com/]
-- [ ] EDA I (matplotlib)[https://matplotlib.org/stable/tutorials/index.html]
+- [X] EDA (Python-Gallery)[https://python-graph-gallery.com/]
+- [X] EDA I (matplotlib)[https://matplotlib.org/stable/tutorials/index.html]
 
 ### Kaggler
 #### Olist
