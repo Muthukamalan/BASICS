@@ -34,8 +34,8 @@ pip install -r requirement.txt
 
 ## Linear Algebra
 - [ ] PCA
-- [ ] SVD
-- [ ] Fourier Series
+- [X] SVD
+- [X] Fourier Series
 - [ ] Gradient Descent
 - [ ] [Linear Algebra](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
 - [ ] Distributions
