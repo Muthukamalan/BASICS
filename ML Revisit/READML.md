@@ -1,8 +1,8 @@
 # ML with Pytorch and Scikit-Learn
 
 ## Chapters 1: Giving Computer the Ability to Learn from Data
-- [ ] Building intelligent machines to transform data into knowledge
-- [ ] Three different types of machine learning
+- [X] Building intelligent machines to transform data into knowledge
+- [X] Three different types of machine learning
     -  making prediction about the future with supervised learning
         - Classification for predicting class labes
         -   Regression for predicting continnous outcomes
@@ -11,13 +11,13 @@
         -   Finding subgreoup with clustering
         -   Dimensionality reduction for data compression
 
-- [ ] Intro to Basic terminology and notations
-- [ ] Roadmap for builidng ML systems
+- [X] Intro to Basic terminology and notations
+- [X] Roadmap for builidng ML systems
     -   Preprocessing getting data into shape
     -   Training and selecting a predictive model
     -   Evaluating models and predicting unseen data instances
-- [ ] using python for ML
-- [ ] summary
+- [X] using python for ML
+- [X] summary
 
 ## Chapter II:  Traininf Simple ML Algo for classification
 - [ ] Artifical neurons - glipse
