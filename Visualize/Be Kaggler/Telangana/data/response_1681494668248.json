@@ -1,0 +1,169 @@
+{
+  "@type": "dataset",
+  "title": "TSSPDCL Consumption data",
+  "identifier": "064a3112-6741-472f-96ee-ba3bc2b97c71",
+  "description": "<p><strong>Organisation: The Telangana Southern Power Distribution Company of Limited (TSSPDCL)</strong></p>\r\n\r\n<p><strong>Data available from June 2021 to Maarch 2023 </strong></p>\r\n\r\n<p>This dataset provides information about the consumption details in the Southern part of Telangana.</p>\r\n\r\n<p>Contains the below columns: | circle | division | subdivision | section | area | catdesc | catcode | totservices | billdservices | units | load |</p>\r\n\r\n<p>Abbreviation: </p>\r\n\r\n<ol>\r\n\t<li>Circle, Division, Subdivision, Section, and Area will help to identify location (TSSPDCL uses Circle as districts)</li>\r\n\t<li>catdesc: Category Description (Type of Connection)</li>\r\n\t<li>catcode: Category Code (Code for connection Type)</li>\r\n\t<li> totservices: Total Services (Number of Connection during the month)</li>\r\n\t<li>billdservices: Billed Services (Number of Connection billed during the month)</li>\r\n\t<li>Units: It will give details of units billed in a month</li>\r\n\t<li>Load: It will give details of load billed in a month</li>\r\n</ol>\r\n\r\n<p>Note: </p>\r\n\r\n<p>The load can be identified based on the category (cat code)</p>\r\n\r\n<p>1,2,7,8,9 are referred with kW </p>\r\n\r\n<p>3,4,5 are referred with hp</p>\r\n\r\n<p>6 consists of street light services which are referred with kW & PWS connections are referred with hp</p>\r\n",
+  "keyword": [
+    "electricity",
+    "units",
+    "load",
+    "consumption",
+    "district area",
+    "TSSPDCL",
+    "southern power"
+  ],
+  "license": "Open Government License, India",
+  "accessLevel": "public",
+  "author": "Department of Energy",
+  "granularity": "Area Level",
+  "accrualPeriodicity": "2",
+  "modified": "2023-04-06T04:33:49+00:00",
+  "spatial": "Southern Telangana ",
+  "publisher": {
+    "@type": "org:Organization",
+    "name": "Energy"
+  },
+  "contactPoint": {
+    "fn": "Telangana Open Data Unit",
+    "hasEmail": "opendata@telangana.gov.in"
+  },
+  "theme": [
+    "Agriculture",
+    "Industries",
+    "Energy"
+  ],
+  "distribution": [
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data June 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_detail_06_2021.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data July 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_detail_07_2021.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data August 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_detail_08_2021.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data September 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/TSSPDCL%20Consumption%20Data%20September%202021.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data October 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/TSSPDCL%20Consumption%20Data%20October%202021.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data November 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/TSSPDCL%20Consumption%20Data%20November%202021..csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data December 2021",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_detail_12_2021_.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data January 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_01_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data February 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_02_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data March 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_03_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data April 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_04_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data May 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_05_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data June 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_06_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data July 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_07_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data August 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_08_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data September 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/consumption_details_09_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data October 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/uploaded_resources/consumption_details_10_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data November 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/uploaded_resources/consumption_details_11_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data December 2022",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/uploaded_resources/consumption_details_12_2022.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data January 2023",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/uploaded_resources/consumption_details_01_2023.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data February 2023",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/uploaded_resources/consumption_details_02_2023.csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "title": "TSSPDCL Consumption Data March 2023",
+      "format": "csv",
+      "downloadURL": "https://data.telangana.gov.in/sites/default/files/uploaded_resources/consumption_details_03_2023.csv"
+    }
+  ]
+}
