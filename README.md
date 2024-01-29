@@ -38,6 +38,7 @@ pip install -r requirement.txt
 - [X] Fourier Series
 - [ ] Gradient Descent
 - [ ] [Linear Algebra](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
+- [ ] Kalman filter
 - [ ] Distributions
 
 
